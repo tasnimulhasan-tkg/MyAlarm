@@ -109,7 +109,7 @@ com.tasnimulhasan.myalarm/
 
 1. Clone the repository
    ```bash
-   git clone https://github.com/yourusername/MyAlarm.git
+   git clone https://github.com/tasnimulhasan-tkg/MyAlarm.git
    ```
 
 2. Add **Space Grotesk** fonts to `app/src/main/res/font/`
